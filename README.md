@@ -24,6 +24,7 @@
 
 | Project | What I did | Tech |
 |---|---|---|
+| **[Data Job Salary Analysis](https://github.com/zakimars/Job-Salary-Analysis)** | Analysed 5,293 salaries: experience, job type, location and remote work, plus a salary model 8.7% better than baseline | Python, Pandas, scikit-learn |
 | **[Tomato Ripeness Classification](https://github.com/zakimars/Tomato-Ripeness-SVM-PSO)** (Thesis) | Real-time tomato sorter on Raspberry Pi 4 using an SVM tuned with Particle Swarm Optimization; 90.9% test accuracy | Python, scikit-learn, Raspberry Pi |
 | **NutriRate** (Bangkit Academy 2024) | Image classification model rating food products A–E, converted to TensorFlow Lite for the Android app | TensorFlow, Keras, TF Lite |
 | **Robot Basketball**, ABU Robocon 2025 | C control software and real-time communication for two robots; **4th place nationally** | C, STM32 |
