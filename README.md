@@ -17,7 +17,7 @@
 
 - 🎓 Electrical Engineering graduate, Brawijaya University (minor in Information Technology)
 - 🤖 Applied machine learning and embedded AI: models on Raspberry Pi, phones and microcontrollers
-- 🏆 4th place nationally at KRAI 2025 · Bangkit Academy 2024 (Machine Learning)
+- 💡 Bangkit Academy 2024 (Machine Learning)
 - 💼 Open to machine learning, data and AI engineering roles
 
 ### Projects
