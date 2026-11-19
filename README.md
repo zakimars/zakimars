@@ -15,39 +15,16 @@
 
 ### About me
 
-- 🎓 **Electrical Engineering** graduate with a minor in Information Technology, Brawijaya University (2026)
-- 🤖 Focused on **applied machine learning and embedded AI**: models on Raspberry Pi, phones and microcontrollers
-- 🏆 **4th place nationally** at Kontes Robot ABU Indonesia (KRAI) 2025; later **Head of the KRAI Division**, leading 24 people
-- 📚 **Bangkit Academy 2024**, Machine Learning cohort (Google, GoTo, Traveloka)
-- 🧑‍🏫 Two years as a **laboratory assistant**, teaching digital systems and microprocessors
-- 🌱 Currently working on a **data science job-market analysis** with Python and scikit-learn
-- 💼 Open to **machine learning, data and AI engineering** roles
+- 🎓 Electrical Engineering graduate, Brawijaya University (minor in Information Technology)
+- 🤖 Applied machine learning and embedded AI: models on Raspberry Pi, phones and microcontrollers
+- 🏆 4th place nationally at KRAI 2025 · Bangkit Academy 2024 (Machine Learning)
+- 💼 Open to machine learning, data and AI engineering roles
 
-### Featured project
-
-<table>
-  <tr>
-    <td width="55%">
-      <h4><a href="https://github.com/zakimars/Tomato-Ripeness-SVM-PSO">🍅 Tomato Ripeness Classification with SVM-PSO</a></h4>
-      <p>A conveyor that sorts tomatoes by ripeness in real time. A color sensor feeds an SVM tuned with
-      Particle Swarm Optimization, running on a Raspberry Pi 4. My final-year thesis.</p>
-      <p>
-        ✅ <b>90.9%</b> test accuracy (vs. 84.4% for a K-Means baseline)<br>
-        ✅ <b>80.0%</b> on 45 new tomatoes in live conveyor testing<br>
-        ✅ Includes a <b>simulation mode</b>, so it runs without the hardware
-      </p>
-      <p><code>Python</code> <code>scikit-learn</code> <code>SVM</code> <code>PSO</code> <code>Raspberry Pi</code></p>
-    </td>
-    <td width="45%">
-      <a href="https://github.com/zakimars/Tomato-Ripeness-SVM-PSO"><img src="https://raw.githubusercontent.com/zakimars/Tomato-Ripeness-SVM-PSO/main/docs/images/conveyor.webp" alt="Tomato sorting conveyor"></a>
-    </td>
-  </tr>
-</table>
-
-### Also worked on
+### Projects
 
 | Project | What I did | Tech |
 |---|---|---|
+| **[Tomato Ripeness Classification](https://github.com/zakimars/Tomato-Ripeness-SVM-PSO)** (Thesis) | Real-time tomato sorter on Raspberry Pi 4 using an SVM tuned with Particle Swarm Optimization; 90.9% test accuracy | Python, scikit-learn, Raspberry Pi |
 | **NutriRate** (Bangkit Academy 2024) | Image classification model rating food products A–E, converted to TensorFlow Lite for the Android app | TensorFlow, Keras, TF Lite |
 | **Robot Basketball**, ABU Robocon 2025 | C control software and real-time communication for two robots; **4th place nationally** | C, STM32 |
 | **Harvest Day**, ABU Robocon 2024 | Robot control programs; helped build the YOLO object-detection model | C, STM32, Python, YOLO |
